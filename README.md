@@ -5,5 +5,5 @@
 para rodar esse projeto na sua máquina, por favor digite:
 
 ```
-npm insall react
+node app.js
 ```
